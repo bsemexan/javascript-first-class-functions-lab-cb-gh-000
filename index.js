@@ -11,3 +11,7 @@ function createMultiplier(){
  function multiplier(){
 
  }
+
+ var doublerWithBind;
+
+ var triplerWithBind;
