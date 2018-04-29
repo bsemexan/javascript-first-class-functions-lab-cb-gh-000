@@ -14,4 +14,4 @@ function createMultiplier(multiplierValue){
 
  var doublerWithBind = multiplier.bind(null, 2)
 
- var triplerWithBind = multiplier()
+ var triplerWithBind = multiplier.bind()
