@@ -6,7 +6,7 @@ function createMultiplier(multiplierValue){
   return multiplierValue
 }
  var doubler = createMultiplier();
- var tripler;
+ var tripler = = createMultiplier()
 
  function multiplier(){
 
