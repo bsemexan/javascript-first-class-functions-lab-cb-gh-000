@@ -1,5 +1,5 @@
 function countdown(callback){
-  window.setTimeout()
+  window.setTimeout(callback, 2000)
 }
 
 function createMultiplier(){
