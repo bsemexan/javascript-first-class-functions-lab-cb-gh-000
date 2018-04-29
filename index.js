@@ -7,3 +7,7 @@ function createMultiplier(){
 }
  var doubler;
  var tripler;
+
+ function multiplier(){
+
+ }
